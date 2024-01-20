@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class basicauth {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stusss
 		System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
 		ChromeOptions options = new ChromeOptions();
 	
